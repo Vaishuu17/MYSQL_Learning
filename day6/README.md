@@ -23,9 +23,13 @@ Writing optimized LEFT JOIN queries for interview scenarios
 LEFT JOIN returns all rows from the left table and only matching rows from the right table. If no match exists, NULL values are returned for the right table columns.
 
 🧾 SQL Syntax
+
 SELECT columns
+
 FROM table1
+
 LEFT JOIN table2
+
 ON table1.common_column = table2.common_column;
 
 
