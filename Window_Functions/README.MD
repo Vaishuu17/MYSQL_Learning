@@ -10,22 +10,34 @@ This repository contains practice queries demonstrating how to summarize data an
 Used to perform calculations on groups of rows and return a single summarized value.
 
 ✔ COUNT() — count records
+
 ✔ SUM() — total values
+
 ✔ AVG() — average value
+
 ✔ MIN() — smallest value
+
 ✔ MAX() — largest value
+
 ✔ GROUP BY — grouping data
+
 ✔ HAVING — filtering grouped results
+
 
 🔹 Window Functions
 
 Used to perform calculations across a set of rows related to the current row — without collapsing the result set.
 
 ✔ OVER() clause
+
 ✔ PARTITION BY
+
 ✔ ORDER BY within windows
+
 ✔ Running totals
+
 ✔ Ranking functions
+
 ✔ Row-wise comparisons
 
 ** Key Learning Outcomes
@@ -44,9 +56,13 @@ Window functions analyze data.
 Together, they unlock powerful real-world analytics like:
 
 - Sales trends
+
 - Ranking systems
+
 - Performance comparisons
+
 - Running metrics
+
 
 
 
